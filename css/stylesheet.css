@@ -98,12 +98,12 @@ a:hover {
 }
 @media screen and (min-width: 42em) and (max-width: 64em) {
     .project-name {
-        font-size: 2.25rem;
+        font-size: 2.75rem;
     }
 }
 @media screen and (max-width: 42em) {
     .project-name {
-        font-size: 1.75rem;
+        font-size: 2.25rem;
     }
 }
 .project-tagline {
